@@ -1,8 +1,6 @@
-package calculadora_metodos;
-
 import java.util.Scanner;
 
-public class metodos{public static void main(String[] args) {
+public class base {public static void main(String[] args) {
     Scanner scanner =new Scanner(System.in);
     int suma=0;
     int resta=0;
